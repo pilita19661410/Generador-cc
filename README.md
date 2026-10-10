@@ -1,0 +1,2 @@
+# Generador-cc
+Clase termux
